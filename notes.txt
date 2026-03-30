@@ -1,1 +1,6 @@
 Notes pour le projet
+
+
+
+
+The amplifiers are devices which produces an output signal which is several times higher in amplitude than the input signals. The ratio of the amplitude of the output signal from an amplifier circuit to the amplitude of the input signal is called Gain. The amplifier circuits are normally designed for a fixed amount of gain. There are amplifiers with very low gain, like the amplifiers at the loudspeaker side of an audio device and also there are amplifiers with very high gain, like the amplifiers in the radio receivers or amplifiers at the microphone side of an audio device.
